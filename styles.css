@@ -109,7 +109,7 @@ body {
   font-size: .7rem;
 }
 
-.plan-details h3 {
+.plan-details h2 {
   color: var(--clr-neutral-blue-800);
   font-size: .9rem;
 }
